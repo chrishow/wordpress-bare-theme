@@ -1,0 +1,39 @@
+/*
+ © Chris How, Primesolid 2015
+ All rights reserved.
+*/
+/* 
+    Created on : Dec 1, 2015, 11:38:57 AM
+    Author     : chris
+*/
+
+
+@font-face {
+    font-family: "Benton Sans Light";
+    src: url(../fonts/light.woff);
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+@font-face {
+    font-family: "Benton Sans Book";
+    src: url(../fonts/book.woff);
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Benton Sans Book";
+    src: url(../fonts/medium.woff);
+    font-style: normal;
+    font-weight: bold;
+}
+
+
+@font-face {
+    font-family: "Benton Sans Medium";
+    src: url(../fonts/medium.woff);
+    font-style: normal;
+    font-weight: normal;
+}

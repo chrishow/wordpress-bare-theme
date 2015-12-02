@@ -1,0 +1,9 @@
+/*
+ © Chris How, Primesolid 2015
+ All rights reserved.
+*/
+
+
+.hide-if-no-customize {
+    display: none !important;
+}
